@@ -171,7 +171,9 @@ watch(() => route.params.id, updateView, { immediate: true })
   <footer>
     <div class="container">
       <div class="author">
-        <p>{{ _("LABEL_CREATE") }}</p>
+        <a href="https://github.com/Shinerising/mars-portfolio" target="_blank">
+          <p>{{ _("LABEL_CREATE") }}</p>
+        </a>
       </div>
       <div class="powered">
         <p>{{ _("LABEL_POWERED") }}</p>

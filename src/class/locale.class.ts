@@ -8,7 +8,7 @@ const locale = {
     "BUTTON_DETAIL": "Detail",
     "BUTTON_DEMO": "Demo",
     "BUTTON_SOURCE": "Source code",
-    "LABEL_CREATE": "Created by Apollo Wayne",
+    "LABEL_CREATE": "Created with Mars Portfolio",
     "LABEL_POWERED": "Powered by Vue 3",
     "LABEL_COPYRIGHT": "Apollo Wayne. All rights reserved",
   },
@@ -20,7 +20,7 @@ const locale = {
     "BUTTON_DETAIL": "查看详情",
     "BUTTON_DEMO": "查看示例",
     "BUTTON_SOURCE": "查看源代码",
-    "LABEL_CREATE": "作者：Apollo Wayne",
+    "LABEL_CREATE": "使用 Mars Portfolio 创建",
     "LABEL_POWERED": "由 Vue 3 强力驱动",
     "LABEL_COPYRIGHT": "Apollo Wayne. 保留所有权利",
   }
