@@ -1,0 +1,6 @@
+name = "mars-portfolio"
+pages_build_output_dir = "./dist"
+
+[[kv_namespaces]]
+binding = "mars_portfolio_kv"
+id = "94d9471a84b64401b62ac5aebca8be9c"
